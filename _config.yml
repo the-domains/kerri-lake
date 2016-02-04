@@ -1,0 +1,28 @@
+name: Kerri Lake
+favicon: null
+layout_spectrum: 0.3376447553746402
+typography_spectrum: 0.5779640721157193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10519959032535553
+  lightness: 0.3727888900320977
+  saturation: 0.9748706661630422
+  rhythmicContrast: 0.8810483161360025
+purpose: []
