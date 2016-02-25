@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Humanity is unique in all of nature with the ability to choose to go against one’s nature. A long history of domination and subjugation has woven into common belief that fighting is normal. That which is common is not necessarily normal.
-datePublished: '2016-02-16T20:03:20.188Z'
-dateModified: '2016-02-16T20:00:26.648Z'
+datePublished: '2016-02-25T15:53:01.653Z'
+dateModified: '2016-02-25T15:47:56.866Z'
 title: 'If We Want An End To War, Someone Has To Stop Fighting'
 author: []
+sourcePath: _posts/2016-02-16-if-we-want-an-end-to-war-someone-has-to-stop-fighting.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-if-we-want-an-end-to-war-someone-has-to-stop-fighting.md
-published: true
 url: if-we-want-an-end-to-war-someone-has-to-stop-fighting/index.html
 _type: Article
 
@@ -47,3 +47,4 @@ Humanity is unique in all of nature with the ability to choose to go against one
 Beyond all religion or political belief is each individual's opportunity to walk in harmony. Harmony is normal, but it is not yet common among humanity. It takes the courage of each individual to do something new, to express what feels good, to share that expression as a contribution to harmony. 
 
 All are welcome to fight, but is it your natural expression to work so hard at something so ineffective for the evolution of a species? Harmony is called "new agey" and often judged into muted expression. But what could be more pragmatic than the courage to be honest with yourself and the willingness to flourish?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae9b3e9d-2138-42f9-9c69-969c8f7b0549.JPG)
